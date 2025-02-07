@@ -1,3 +1,6 @@
+**Open Source Software (OSS)** ist frei zugängliche Software, deren Quellcode jeder einsehen, verändern und weitergeben darf. Sie fördert Transparenz, Zusammenarbeit und Innovation, bietet Unternehmen Flexibilität und reduziert Abhängigkeiten.
+
+
 Open Source Software (OSS) bezeichnet Software, deren Quellcode öffentlich zugänglich ist. Dies ermöglicht es Nutzern, den Code einzusehen, zu verändern und weiterzugeben. Die grundlegenden Prinzipien von Open Source basieren auf Transparenz, Kollaboration und Freiheit in der Nutzung und Weiterentwicklung der Software[1][2][4].
 
 ### Merkmale von Open Source Software
@@ -315,5 +318,34 @@ Hier ist die erweiterte **Liste der Open-Source-Produkte bei Bechtle**, ergänzt
 ---
 
 Diese Liste umfasst **führende Open-Source- und Enterprise-Produkte**, die Bechtle für Unternehmen und öffentliche Einrichtungen anbietet. Sie ermöglichen **IT-Sicherheit, Automatisierung, Skalierbarkeit und digitale Souveränität**.
+
+Hier ist eine kompakte Zusammenfassung für eine Präsentation:  
+
+---
+
+### **Lizenz vs. Subskription – Wichtige Unterschiede**  
+
+🔹 **Lizenz (Kaufmodell)**  
+- Einmalige Zahlung für dauerhaftes Nutzungsrecht  
+- Keine regelmäßigen Kosten  
+- Updates & Support meist separat  
+- Weiterverkauf möglich (unter bestimmten Bedingungen)  
+
+🔹 **Subskription (Abonnementmodell)**  
+- Zeitlich begrenztes Nutzungsrecht (monatlich/jährlich)  
+- Regelmäßige Zahlungen erforderlich  
+- Laufende Updates & Support enthalten  
+- Kein Eigentum, kein Weiterverkauf  
+
+🔹 **Juristische Einordnung**  
+- **Lizenz:** Urheberrecht & Lizenzrecht (EULA, Erschöpfungsgrundsatz)  
+- **Subskription:** Vertragsrecht (Miet-/Dienstvertragsmodell)  
+
+✅ **Fazit:**  
+Lizenzen bieten ein einmaliges, dauerhaftes Nutzungsrecht, während Subskriptionen flexible, laufend aktualisierte Lösungen mit regelmäßigen Kosten darstellen.  
+
+---
+
+Diese kompakte Darstellung ist gut für eine Präsentationsfolie geeignet. Soll ich dazu eine Grafik erstellen? 😊
 
 
